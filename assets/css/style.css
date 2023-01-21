@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background: #fff;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+}
+
+.redes {
+    display: inline-block;
+}
+
+.navbar {
+    background: rgb(56, 54, 187);
+}
+
+.row, h1 {
+    color: #27ABF6;
+}
+
+.container, p {
+    font-weight: 900;
+    font-size: xx-large;
+    text-align:left;
+    margin-left: 5rem;
+}
+
+.cabezera {
+    margin: 9rem;
+}
+
+.contenido {
+    margin-top: 18rem;
+}
+
+.btn {
+    width: 280px;
+    height: 50px;
+}
+
+a { 
+    text-decoration: none;
+}
+
+h2 {
+    margin: 3rem;
+    font-weight: 900;
+    font-size:xx-large;
+    color:  #27ABF6;
+
+}

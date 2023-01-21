@@ -1,0 +1,10 @@
+
+.contenedor {
+    text-align: left;
+  }
+.centrado {
+    display: inline-block;
+  }
+p {
+      padding-left: 1em ;
+    }

@@ -1,0 +1,80 @@
+body {
+    font-family: 'roboto', sans-serif;
+    font-weight: 300;
+}
+.navbar img {
+    height: 25px;
+    justify-content: left;
+}
+
+.card {
+    width: 18rem;
+}
+
+.card-title {
+    font-size: 20px;
+    color: #212529;
+}
+p {
+    font-size: 13px;
+    margin-bottom: -15px;
+}
+.card-text {
+    font-size: 16px;
+    color: #707070;
+
+}
+.list-group-item p {
+    font-size: 16px !important;
+    margin-right: 1em;
+    padding-bottom: 15px;
+}
+
+.list-group-item span {
+    font-size: 20px;
+    color: #28A745;
+    font-weight: 500;
+    margin-left: 1em;
+}
+.fas{
+    width: 6.13px;
+    color: #707070;
+    opacity: 100%;
+}
+.container {
+    padding-bottom: 15px;
+}
+.container-fluid {
+    text-align: center;
+    padding: 10px
+}
+
+form {
+    background-color: #28A745;
+
+}
+
+.form-control {
+    margin-bottom: 1em;
+    display: inline;
+}
+.btn {
+   width: 112.71px;
+}
+h5 {
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+footer{
+    text-align: center;
+    padding: 10px 15px 15px 15px;
+    font-size: 16px;
+}
+footer img {
+    width: 82px;
+}
+footer p {
+    padding-top: 5px;
+    margin-bottom: 1em;
+    font-size: 16px;
+}
