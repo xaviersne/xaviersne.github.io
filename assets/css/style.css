@@ -58,3 +58,9 @@ h2 {
     color:  #27ABF6;
 
 }
+
+span {
+    color: #000;
+    text-align: justify;
+    margin: 3rem;
+}
